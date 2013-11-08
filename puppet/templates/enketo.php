@@ -26,12 +26,12 @@ $config['integration_with_url'] = "http://formhub.localhost";
 /**
  * Will be used to direct users throughout application
  */
-$config['support_email'] = "support@formhub.org";
+$config['support_email'] = "support@immap.org";
 
 /**
  * In the webform view this is the brand name shown (empty = enketo)
  */
-$config['brand'] = "";
+$config['brand'] = "iMMAP";
 
 /**
  * OpenRosa servers that are allowed to connect
